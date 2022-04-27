@@ -1,10 +1,7 @@
 # AI Company List
 
-## 소개
-국내 기업 중 AI 서비스를 준비하거나 운영하고 있는 회사를 표로 정리하였습니다. 매일 경제 신문의 ["대한민국 유망 AI 기업 100곳 분석해보니… 모빌리티·핀테크·헬스케어 스타트업 눈에 띄네"](https://www.mk.co.kr/news/business/view/2021/02/109294/) 기사 내 표와 지능 정보산업협회의 [AI Landscape](https://www.ailandscape.co.kr/index.asp)를 참고하여 정리하였습니다. 
-
-
 ## 기업 소개
+국내 기업 중 AI 서비스를 준비하거나 운영하고 있는 회사를 표로 정리하였습니다. 매일 경제 신문의 ["대한민국 유망 AI 기업 100곳 분석해보니… 모빌리티·핀테크·헬스케어 스타트업 눈에 띄네"](https://www.mk.co.kr/news/business/view/2021/02/109294/) 기사 내 표와 지능 정보산업협회의 [AI Landscape](https://www.ailandscape.co.kr/index.asp)를 참고하여 정리하였습니다. 
 
 | 회사명 | 분야 | AI 서비스 |
 | --- | --- | --- |
