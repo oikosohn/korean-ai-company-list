@@ -1,4 +1,4 @@
-# 한국 AI 기업 목록 (Korean AI Company List)
+# 한국 AI 기업 목록 (Korea AI Company List)
 
 국내에서 AI 서비스를 운영하고 있거나 준비하고 있는 회사를 표로 정리하였습니다. 
 
